@@ -1,3 +1,3 @@
 # Belajar Git
 
-Project untyk mempelajari dasar penggunaan git
+Mery mau belajar bareng chase soal git
