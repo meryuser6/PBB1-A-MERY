@@ -4,7 +4,7 @@ int octal = int.parse('12', radix: 8);
 int binary = int.parse('1010', radix: 2);
 int hexadecimal = 0xA;
 
-print("mery");
+print("name");
 print(binary);
 print(hexadecimal);
 print(octal);
